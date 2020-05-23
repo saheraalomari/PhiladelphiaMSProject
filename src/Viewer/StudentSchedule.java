@@ -10,6 +10,7 @@ import Model.Student;
 
 public class StudentSchedule extends javax.swing.JFrame {
 
+    //Hello
     Connection con = null;
     ResultSet rs = null;
     ResultSet rs1 = null;
